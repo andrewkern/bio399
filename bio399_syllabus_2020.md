@@ -13,47 +13,87 @@ material at hand rather than blowing it off until later (even if Andy is terribl
 Below is the tentative schedule for the course. Depending on the speed we go through topics there might
 be shifts in the schedule.
 
+## Virtual Office Hours
+So this is new, and we'll see how it goes, but I'm planning on putting up a Zoom link in
+the Canvas announcements for office hours. The current schedule is Tuesday at 2-3pm and
+Friday from 3-4pm, but I'm also available at other times so it might be equally easy to 
+just arrange an appointment with me.
+ 
+## Requirements and Evaluation
+The class is organized around weekly problem sets which our in class work and discussion will prepare you
+for. Problem sets will be a combination of coding and analytical work, and will be turned in via preparing
+a jupyter notebook and sending either a path on our server or the notebook itself via email to Andy. My goal
+is to have the problem sets be challenging and interesting for you but not evaluative-- think pass/fail. 
+There will be no quizes or tests. There will be a final group project where you will partner with 1 or 2
+other students to do a bit of research on your own and then present to the class.
+
+## Discussion Section
+Discussion will be a chance for further review of the programing material with Elliot, our talented TA. Material
+in discussion section is meant purely to fill in details of what we cover in lectures, not go beyond what we have learned
+in class.
+
+## Final Project
+The last week of class will be small groups presenting their final projects to the class. We will organize into groups
+for this in Week 5. The idea will be for the group to come up with it's _own research idea_, centered around the themes
+of the class and then take that idea to Andy for approval. With approval in hand the group will go off, do their bit 
+of research, and then present it to the class in a 15min presentation during the last week of class. Some example ideas
+for the final project might be like: creating a phylogenetic tree of a SARS-CoV-2 and interpreting it, doing simulations
+of the SIR model, developing a classifier to differentiate genetic variation, etc.. This should be fun, not a slog.
+
+## Students with Disabilities
+I strongly encourage students with disabilities, including 
+"invisible" disabilities like chronic diseases, learning disabilities, and psychiatric
+disabilities to discuss with me as soon as possible what appropriate accommodations might be helpful to them.
+
 ---------------------------------------------------------------------------------------------------------
 
-### January 6. Getting Python going on your machine
+### Week 1. Computational Genetics Intro
+Basics of nomenclature, our server, jupyter notebooks, python baby steps,
+Printing, data structures, indexing, control flow, conditionals, looping, 
+functions. Case study: plotting COVID cases
 
-Installing anaconda, jupyter notebooks, python baby steps
-
-### January 8. Python programming language
-
-Printing, data structures, indexing
-
-### January 10. Python language continued
-
-Control flow, conditionals, looping, functions. Assignment 1 handed out.
-
-### January 13. Numpy and Scipys
-
+### Week 2. Tracking the spread of SARS-CoV-2
 Using numpy and scipy to boost our productivity. ndarrays, indexing, etc.
+Case study: fitting exponential models to growth of SARS-CoV-2
 
-### January 15.  Matplotlib, plotting data
+### Week 3. Dealing with sequence data
+*IMPORTANT* -- no class on 4/15.
+Using Biopython, managing sequences, alignment
+Case study: aligning SARS-CoV-2 genomes, extracting genomic features
 
-Basics of matplotlib, histograms, scatterplots, making things pretty. 
-
-### January 17. Scipy for data, optimization, Pandas
-
-Getting more useful with Scipy for data analysis. First looks at Pandas. Assignment 2 handed out.
+### Week 4. Computational Phylogenetics
+Trees and tree thinking, clustering, Maximum likelihood principle, ML phylogenetics
+Case study: building trees from SARS-CoV-2
 
 
-### January 20. Simulation of Genetic Drift
+### Week 5. Unsupervised clustering
+Non tree-like ways to cluster, UPGMA, PCA, UMAP?
+Case study: clustering SARS-CoV-2 and visualizing these clusters
 
-Using our skills to simulate some the population genetic model of genetic drift.
+### Week 6. Modeling evolution
+Using our skills to simulate some the population genetic model of genetic drift
+and natural selection. 
+Case study: calculating time to fixation of neutral mutations vs. selected mutations
 
-### January 22. Biopython
+### Week 7. Modeling infectious disease
+*IMPORTANT* -- may cancel class on 5/13. TBD.
+SIR and SEIR models, numerical integration of ordinary differential equations, SciPy,
+spatial SIR model?
+Case study: simulating SIR model, estimating COVID params
 
-Using biopython to handle sequence data. More advanced string stuff
 
-### January 24. Scikit-allel for population genetics
+### Week 8. Genome-wide association studies
+Genotype to phenotype mapping, linear models, GWAS
+Case study: host genetic variation and its impact on COVID
 
-Population genetic analysis using Alistair Miles' very excellent scikit-allel
-package. Assignment 3.  
+### Week 9. Single cell RNA-seq
+Clustering con't, applications to high dimensional data and in particular scRNA
+Case study: scRNA-seq from COVID-10 infected cells
 
-### January 27. tbd 
+### Week 10. Final Project Presentations
+Yay let's see everyone's cool work.
+
+
 
 
 
