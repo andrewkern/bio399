@@ -1,6 +1,6 @@
 # Biology 399: Computational Genetics
 
-Biology is now a computational field, where large, multidimensional datasets are the norm. In this  
+Biology is now a computational field, where large, multidimensional datasets are the norm. In this 
 class we introduce quantitative approaches to problems that arise naturally in genetics and genomics
 through a computational lens. The course is project based, with each week centering around a new
 problem in biology. Students will write code in Python to visualize and statistically analyze datasets
@@ -12,6 +12,12 @@ This environment will benefit the active participant, so please do you best duri
 material at hand rather than blowing it off until later (even if Andy is terribly boring). 
 Below is the tentative schedule for the course. Depending on the speed we go through topics there might
 be shifts in the schedule.
+
+## Learning objectives for this class
+* Gaining beginner level fluency with the Python programming language
+* Develop skills at dealing with biological data, from importing large datasets, to visualization, to fitting
+* Gain appreciation for a broad survey of quantitative methods in genetics / genomics
+* Do some actual research on SARS-CoV-2!
 
 ## Virtual Office Hours
 So this is new, and we'll see how it goes, but I'm planning on putting up a Zoom link in
@@ -28,7 +34,7 @@ There will be no quizes or tests. There will be a final group project where you 
 other students to do a bit of research on your own and then present to the class.
 
 ## Discussion Section
-Discussion will be a chance for further review of the programing material with Elliot, our talented TA. Material
+Discussion will be a chance for further review of the programing material with Elliott (eabe@cas.uoregon.edu), our talented TA. Material
 in discussion section is meant purely to fill in details of what we cover in lectures, not go beyond what we have learned
 in class.
 
@@ -40,10 +46,16 @@ of research, and then present it to the class in a 15min presentation during the
 for the final project might be like: creating a phylogenetic tree of a SARS-CoV-2 and interpreting it, doing simulations
 of the SIR model, developing a classifier to differentiate genetic variation, etc.. This should be fun, not a slog.
 
+## Class Courtesy 
+This is going to be key to the success of this Zoom format. Please "arrive" on time ready to be engaged. Ask questions if you did not hear or understand something.
+Classroom courtesy and sensitivity are especially important with respect to individuals and topics dealing with differences of race, culture, religion, politics, sexual orientation, gender, gender variance, and nationalities. Class rosters are provided to the instructor with the student's legal name. I will gladly honor your request to address you by an alternate name or gender pronoun. Please advise me of this preference early in the quarter (or before) so that I may address you properly.
+Our classroom is a learning environment, and as such should be a safe, inclusive and respectful place. Being respectful also includes using preferred pronouns for your classmates. Disrespecting fellow students as well as combative approaches, tones and/or actions are not acceptable. Please make me aware if there are classroom dynamics that impede your (or someone else’s) full engagement.
+
 ## Students with Disabilities
 I strongly encourage students with disabilities, including 
 "invisible" disabilities like chronic diseases, learning disabilities, and psychiatric
 disabilities to discuss with me as soon as possible what appropriate accommodations might be helpful to them.
+You are also encouraged to contact the Accessible Education Center in 164 Oregon Hall at 541-346-1155 or uoaec@uoregon.edu.
 
 ---------------------------------------------------------------------------------------------------------
 
