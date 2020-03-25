@@ -14,7 +14,7 @@ Below is the tentative schedule for the course. Depending on the speed we go thr
 be shifts in the schedule.
 
 ## Learning objectives for this class
-* Gaining beginner level fluency with the Python programming language
+* Gaining some level of fluency with the Python programming language
 * Develop skills at dealing with biological data, from importing large datasets, to visualization, to fitting
 * Gain appreciation for a broad survey of quantitative methods in genetics / genomics
 * Do some actual research on SARS-CoV-2!
