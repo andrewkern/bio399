@@ -40,11 +40,11 @@ in class.
 
 ## Final Project
 The last week of class will be small groups presenting their final projects to the class. We will organize into groups
-for this in Week 5. The idea will be for the group to come up with it's _own research idea_, centered around the themes
+for this in Week 5. The idea will be for the group to come up with it's _own research idea_ or _piece of science communication_, centered around the themes
 of the class and then take that idea to Andy for approval. With approval in hand the group will go off, do their bit 
-of research, and then present it to the class in a 15min presentation during the last week of class. Some example ideas
+of research or project, and then present it to the class in a 15min presentation during the last week of class. Some example ideas
 for the final project might be like: creating a phylogenetic tree of a SARS-CoV-2 and interpreting it, doing simulations
-of the SIR model, developing a classifier to differentiate genetic variation, etc.. This should be fun, not a slog.
+of the SIR model, developing a classifier to differentiate genetic variation, creating an animation describing the spread of COVID-19, or perhaps even creating an audio piece that debunks bad science. This should be fun and creative, not a slog.
 
 ## Class Courtesy 
 This is going to be key to the success of this Zoom format. Please "arrive" on time ready to be engaged. Ask questions if you did not hear or understand something.
