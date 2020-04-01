@@ -34,6 +34,7 @@ away and start afresh
 2. type `rm -rf bio399/` -- this removes the directory
 3. type `git clone https://github.com/andrewkern/bio399`
 
+### Git pull and git reset if need be
 The other option is to keep things up to date with what's on the Github
 server without deleting anything. You can do this in the following way
 1. open a new terminal window on the server
