@@ -19,7 +19,7 @@ First download the data as you did above by running the following either in a te
 next let's check out the structure of this file by printing out the first line (I'm assuming you're using a jupyter notebook cell for the code below)
 ```
 # let's print the first line of this file to see what the column names are
-f = open("daily.csv.1",'r')
+f = open("daily.csv",'r')
 #print out the first line to see what things are called
 print(f.readline())
 ```
