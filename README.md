@@ -40,7 +40,7 @@ server without deleting anything. You can do this in the following way
 1. open a new terminal window on the server
 2. `cd bio399/` -- move into the bio399 directory
 2. type `git pull` . this may work, but it may complain about uncommitted changes and ask you to
-stash. don't do this. instead go to step 3
+stash. don't do this. instead go to step 4
 3. type `git fetch origin`
 4. type `git reset --hard origin/master`
 
