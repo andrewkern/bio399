@@ -12,7 +12,7 @@ This environment will benefit the active participant, so please do you best duri
 material at hand rather than blowing it off until later (even if Andy is terribly boring). 
 Below is the tentative schedule for the course. Depending on the speed we go through topics there might
 be shifts in the schedule.
-
+-------------
 ## Learning objectives for this class
 * Gaining some level of fluency with the Python programming language
 * Develop skills at dealing with biological data, from importing large datasets, to visualization, to fitting
