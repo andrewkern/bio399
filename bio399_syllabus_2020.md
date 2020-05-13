@@ -1,4 +1,4 @@
-# Biology 399: Computational Genetics
+
 
 Biology is now a computational field, where large, multidimensional datasets are the norm. In this 
 class we introduce quantitative approaches to problems that arise naturally in genetics and genomics
@@ -12,7 +12,7 @@ This environment will benefit the active participant, so please do you best duri
 material at hand rather than blowing it off until later (even if Andy is terribly boring). 
 Below is the tentative schedule for the course. Depending on the speed we go through topics there might
 be shifts in the schedule.
--------------
+
 ## Learning objectives for this class
 * Gaining some level of fluency with the Python programming language
 * Develop skills at dealing with biological data, from importing large datasets, to visualization, to fitting
@@ -21,8 +21,8 @@ be shifts in the schedule.
 
 ## Virtual Office Hours
 So this is new, and we'll see how it goes, but I'm planning on putting up a Zoom link in
-the Canvas announcements for office hours. The current schedule is Tuesday at 2-3pm and
-Friday from 3-4pm, but I'm also available at other times so it might be equally easy to 
+the Canvas announcements for office hours. The current schedule is Tuesday at 3-5pm and
+Friday from 3-5pm, but I'm also available at other times so it might be equally easy to 
 just arrange an appointment with me.
  
 ## Requirements and Evaluation
@@ -34,7 +34,7 @@ There will be no quizes or tests. There will be a final group project where you 
 other students to do a bit of research on your own and then present to the class.
 
 ## Discussion Section
-Discussion will be a chance for further review of the programing material with Elliott (eabe@cas.uoregon.edu), our talented TA. Material
+Discussion will be a chance for further review of the programing material with Elliott (<eabe@cas.uoregon.edu>), our talented TA. Material
 in discussion section is meant purely to fill in details of what we cover in lectures, not go beyond what we have learned
 in class.
 

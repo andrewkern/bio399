@@ -1,0 +1,26 @@
+---
+output: 
+  pdf_document:
+    keep_tex: true
+    fig_caption: yes
+    latex_engine: pdflatex
+    template: syllabus_template.tex
+geometry: margin=1in
+
+title: "Biology 399: Computational Genetics"
+author: Andrew Kern
+date: "Spring 2020"
+
+email: "adkern@uoregon.edu"
+web: "github.com/andrewkern/bio399"
+officehours: "Tu and F  03:00-05:00 p.m."
+office: "*Zoom*"
+classroom: "*Zoom*"
+classhours: "MWF 11:00 a.m. -12:45 p.m."
+
+fontfamily: mathpazo
+fontsize: 12
+header-includes:
+   - \linespread{1.05}
+   
+...
