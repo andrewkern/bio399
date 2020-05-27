@@ -69,7 +69,6 @@ Using numpy and scipy to boost our productivity. ndarrays, indexing, etc.
 Case study: fitting exponential models to growth of SARS-CoV-2
 
 ### Week 3. Dealing with sequence data
-*IMPORTANT* -- no class on 4/15.
 Using Biopython, managing sequences, alignment
 Case study: aligning SARS-CoV-2 genomes, extracting genomic features
 
@@ -98,9 +97,9 @@ Case study: simulating SIR model, estimating COVID params
 Genotype to phenotype mapping, linear models, GWAS
 Case study: host genetic variation and its impact on COVID
 
-### Week 9. Single cell RNA-seq
-Clustering con't, applications to high dimensional data and in particular scRNA
-Case study: scRNA-seq from COVID-10 infected cells
+### Week 9. Machine learning
+Intro to machine learning, Support Vector Machines, Random Forests, Neural Nets
+Case study: country of origin prediction of genomes using ML
 
 ### Week 10. Final Project Presentations
 Yay let's see everyone's cool work.
