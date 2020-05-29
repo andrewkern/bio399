@@ -49,7 +49,7 @@ of the SIR model, developing a classifier to differentiate genetic variation, cr
 ## Class Courtesy 
 This is going to be key to the success of this Zoom format. Please "arrive" on time ready to be engaged. Ask questions if you did not hear or understand something.
 Classroom courtesy and sensitivity are especially important with respect to individuals and topics dealing with differences of race, culture, religion, politics, sexual orientation, gender, gender variance, and nationalities. Class rosters are provided to the instructor with the student's legal name. I will gladly honor your request to address you by an alternate name or gender pronoun. Please advise me of this preference early in the quarter (or before) so that I may address you properly.
-Our classroom is a learning environment, and as such should be a safe, inclusive and respectful place. Being respectful also includes using preferred pronouns for your classmates. Disrespecting fellow students as well as combative approaches, tones and/or actions are not acceptable. Please make me aware if there are classroom dynamics that impede your (or someone else’s) full engagement.
+Our classroom is a learning environment, and as such should be a safe, inclusive and respectful place. Disrespectful behavior towards fellow students or instructors are not acceptable. Please make me aware if there are classroom dynamics that impede your (or someone else’s) full engagement.
 
 ## Students with Disabilities
 I strongly encourage students with disabilities, including 
