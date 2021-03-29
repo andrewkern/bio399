@@ -1,5 +1,5 @@
 # Bio399: Computational Genetics
-Course materials for Spring 2020 term of Computational Genetics.
+Course materials for Spring 2021 term of Computational Genetics.
 Because of the auspicious timing of our class we have 
 decided to focus on applying our developing computer programming
 chops to studying COVID and the evolution of the virus
