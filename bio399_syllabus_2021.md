@@ -20,10 +20,16 @@ be shifts in the schedule.
 * Do some actual research on SARS-CoV-2!
 
 ## Virtual Office Hours
-So this is new, and we'll see how it goes, but I'm planning on putting up a Zoom link in
-the Canvas announcements for office hours. The current schedule is Tuesday at 3-5pm and
-Friday from 3-5pm, but I'm also available at other times so it might be equally easy to 
+I will be putting up a Zoom link in
+the Canvas announcements for office hours. The current schedule is Tuesday at 4-5pm and
+Friday from 4-5pm, but I'm also available at other times so it might be equally easy to 
 just arrange an appointment with me.
+
+## Slack space
+In addition to Canvas and normal email I'll be putting up a slack chat space for the class.
+If you have not yet used Slack it is an excellent way to message people that takes a middle
+ground approach between emails and text messages, and it's particularly useful for code based
+efforts.
  
 ## Requirements and Evaluation
 The class is organized around weekly problem sets which our in class work and discussion will prepare you
@@ -34,7 +40,7 @@ There will be no quizes or tests. There will be a final group project where you 
 other students to do a bit of research on your own and then present to the class.
 
 ## Discussion Section
-Discussion will be a chance for further review of the programing material with Elliott (<eabe@cas.uoregon.edu>), our talented TA. Material
+Discussion will be a chance for further review of the programing material with me
 in discussion section is meant purely to fill in details of what we cover in lectures, not go beyond what we have learned
 in class.
 
