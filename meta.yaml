@@ -9,14 +9,15 @@ geometry: margin=1in
 
 title: "Biology 399: Computational Genetics"
 author: Andrew Kern
-date: "Spring 2020"
+date: "Spring 2022"
 
 email: "adkern@uoregon.edu"
 web: "github.com/andrewkern/bio399"
-officehours: "Tu and F  03:00-05:00 p.m."
-office: "*Zoom*"
-classroom: "*Zoom*"
-classhours: "MWF 11:00 a.m. -12:45 p.m."
+officehours: "Tu 4:00-5:00 p.m., Fr 3:00-4:00 p.m."
+office: "Pacific 301"
+classroom: "VOL 101"
+classhours: "MWF 11:00 a.m. - 11:50 p.m."
+discussion: "Tu 10:00 a.m. - 10:50 a.m."
 
 fontfamily: mathpazo
 fontsize: 12
