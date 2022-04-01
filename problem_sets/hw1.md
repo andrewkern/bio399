@@ -9,33 +9,36 @@ even means take a look at this [wikipedia page](https://en.wikipedia.org/wiki/Co
 is simple enough, the complimentation might not be. Try using a Dictionary for this.
 To show that your function is working reverse complement the sequence "TACAGAT".
 
-**Question 2:** In class we used COVID case data from the CDC aggregated across the entire country (i.e., all states) and used that to plot the cummulative number of positives over time. For the problem set you will plot data at the state level and compare growth trajectories among states.
+**Question 2:** In class we used COVID case data from the CDC aggregated across the entire country (i.e., all states) 
+and used that to plot the cumulative number of positives over time. 
+For the problem set you will plot data at the state level and compare growth trajectories among states.
 
-I've gone ahead and collected the data for you. It can be found in `data/case_states_4.2.21.csv`
+I've gone ahead and collected the data for you. It can be found in `data/trends_in_covid19_cases.csv`
 
 next let's check out the structure of this file by printing out the first line (I'm assuming you're using a jupyter notebook cell for the code below)
 ```
 # let's print the first line of this file to see what the column names are
-f = open("data/case_states_4.2.21.csv",'r')
+f = open("data/trends_in_covid19_cases.csv",'r')
 #print out the first line to see what things are called
 print(f.readline())
 ```
-okay so the columns we are interested in here are state (the second column) and the "new_case" column-- that is the column that has the number of new cases per day per state. Here is your job-- use these data to plot the following.
+okay so the columns we are interested in here are "State Name" (the first column) and the "7-day Avg Cases" column-- 
+that is the column that has the number of new cases per day per state. Here is your job-- use these data to plot the following.
 
 1. The number of positives over time in New York versus California. You can do this in two separate plots but it's easy enough to compare two lines in the same plot by repeatedly calling `plt.plot()`
 2. The number of deaths in New York versus California
 
-3. Finally can you create a plot with a three way comparison of California, Oregon, and Washington?  
+3. Finally can you create a plot with a three way comparison of California, Arizona, and New York?  
 
 **Hint:** take the following code cell and adjust it by adding a test to ask if a given line pertains to the state of interest
 ```
 #make an array for my numbers
 cases = []
-my_file = open("data/case_states_4.2.21.csv","r") #open a handle to the file
+my_file = open("data/trends_in_covid19_cases.csv","r") #open a handle to the file
 for line in my_file: #go through every line in file
     tokens = line.split(",") #split every line by the commas
-    if tokens[0] != 'submission_date': #test if equal to header
-        cases.append(int(tokens[5]))#append value to list as integer 
+    if tokens[0] != 'State Name': #test if equal to header
+        cases.append(int(tokens[2]))#append value to list as integer 
 
 print(cases)
 ```
