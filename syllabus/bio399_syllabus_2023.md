@@ -1,4 +1,11 @@
+# Computational Genetics - Bio 399
+### Instructor: Andy Kern (adkern@uoregon.edu)
+#### Office: Pacific Hall 301
 
+### GE: Danny Brown (dabrown@uoregon.edu)
+
+
+## Introduction
 Biology is now a computational field, where large, multidimensional datasets are the norm. In this
 class we introduce quantitative approaches to problems that arise naturally in genetics and genomics
 through a computational lens. The course is project based, with each week centering around a new
@@ -60,7 +67,7 @@ This should be fun and creative, not a slog.
 
 ## Class Courtesy
 
-To optimize learning in my classroom, I ask that it be an inclusive and respectful place.  Disrespecting fellow students as well as combative approaches, tones and/or actions are not acceptable. Please make me aware if there are classroom dynamics that impede your (or someone else’s) full engagement and learning. 
+Our classroom is a learning environment, and as such should be a safe, inclusive and respectful place. Being respectful. Disrespecting fellow students as well as combative approaches, tones and/or actions are not acceptable. Please make me aware if there are classroom dynamics that impede your (or someone else’s) full engagement.
 
 ## Students with Disabilities
 
@@ -84,7 +91,6 @@ Case study: fitting exponential models to growth of SARS-CoV-2
 
 ### Week 3. Dealing with sequence data
 
-_IMPORTANT_ -- may cancel class Friday 4/15
 Using Biopython, managing sequences, alignment
 Case study: aligning SARS-CoV-2 genomes, extracting genomic features
 
@@ -95,7 +101,7 @@ Case study: building trees from SARS-CoV-2
 
 ### Week 5. Unsupervised clustering
 
-Non tree-like ways to cluster, UPGMA, PCA, UMAP?
+Hierarchical clustering, PCA, UMAP
 Case study: clustering SARS-CoV-2 and visualizing these clusters
 
 ### Week 6. Modeling evolution
@@ -106,7 +112,6 @@ Case study: calculating time to fixation of neutral mutations vs. selected mutat
 
 ### Week 7. Modeling infectious disease
 
-_IMPORTANT_ -- no class on 5/9.
 SI, SIR, and SEIR models, numerical integration of ordinary differential equations, SciPy
 Case study: simulating SIR model, estimating COVID params
 
@@ -116,6 +121,7 @@ Genotype to phenotype mapping, linear models, GWAS
 Case study: host genetic variation and its impact on COVID
 
 ### Week 9. Machine learning
+_IMPORTANT_ -- no class on 5/29.
 
 Intro to machine learning, Support Vector Machines, Random Forests, Neural Nets
 Case study: country of origin prediction of genomes using ML

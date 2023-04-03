@@ -60,7 +60,7 @@ This should be fun and creative, not a slog.
 
 ## Class Courtesy
 
-To optimize learning in my classroom, I ask that it be an inclusive and respectful place.  Disrespecting fellow students as well as combative approaches, tones and/or actions are not acceptable. Please make me aware if there are classroom dynamics that impede your (or someone else’s) full engagement and learning. 
+Our classroom is a learning environment, and as such should be a safe, inclusive and respectful place. Being respectful. Disrespecting fellow students as well as combative approaches, tones and/or actions are not acceptable. Please make me aware if there are classroom dynamics that impede your (or someone else’s) full engagement.
 
 ## Students with Disabilities
 
